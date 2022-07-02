@@ -2,6 +2,7 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=valdocijunior&color=yellow" alt="Profile views" /> </p>
 
 ###
 
@@ -9,18 +10,30 @@
 
 ###
 
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br><br>
+
 <h4 align="left">Connect with me:</h4>
 
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/valdocijunior2202" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/valdocimjr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/valdocijunior" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-valdocijunior-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://linkedin.com/in/valdocijunior2202" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-valdocijunior2202-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/valdocimjr" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-valdocimjr-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
 
 ###
 
