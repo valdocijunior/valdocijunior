@@ -9,12 +9,12 @@
 
 ###
 
-<p align="left">Connect with me:</p>
+<h4 align="left">Connect with me:</h4>
 
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/valdocijunior2202" target="_blank">
+  <a href="linkedin.com/in/valdocijunior2202" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/valdocimjr/" target="_blank">
