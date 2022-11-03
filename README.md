@@ -27,8 +27,8 @@
 <a href="https://codepen.io/valdocijunior" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-valdocijunior-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://linkedin.com/in/valdocijunior2202" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-valdocijunior2202-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/valdocijunior" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-valdocijunior-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/valdocimjr" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-valdocimjr-05122A?style=flat&logo=instagram" alt="instagram"/>
