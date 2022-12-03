@@ -6,13 +6,17 @@
 
 ###
 
-<p align="left">👨‍💻 I'm a Full Stack Dev Jr. always trying to improve my skills and knowledge on the programming World;<br><br>🗺 Currently living in Brazil, Porto Alegre;<br><br>📚 I'm a Production Engineer and Analysis and System Development student (yes, you read that right, I'm doing two graduations at the same time 🤯);<br><br>🔥 Feel free to ask me anything about programming and I will always try my best to answer!<br><br>🤔 Random fact: I'm addicted to coffee.</p>
+<p align="left">👨‍💻 I'm a Developer Jr. always trying to improve my skills and knowledge on the programming World;<br><br>🗺 Currently living in Brazil, Porto Alegre;<br><br>📚 I'm studying Production Engineering and Analysis and System Development at the moment. (yes, you read that right, I'm doing two graduations at the same time 🤯);<br><br>🔥 Feel free to ask me anything about programming and I will always try my best to answer!<br><br>🤔 Random fact: I'm addicted to coffee.</p>
 
 ###
 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -24,15 +28,8 @@
 <h4 align="left">Connect with me:</h4>
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/valdocijunior" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-valdocijunior-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://linkedin.com/in/valdocijunior" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-valdocijunior-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/valdocimjr" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-valdocimjr-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </p>
 
 ###
