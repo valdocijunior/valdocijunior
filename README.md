@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm a Developer Jr. always trying to improve my skills and knowledge on the programming World;<br><br>🗺 Currently living in Brazil, Porto Alegre;<br><br>📚 I'm studying Production Engineering and Analysis and System Development at the moment. (yes, you read that right, I'm doing two graduations at the same time 🤯);<br><br>🔥 Feel free to ask me anything about programming and I will always try my best to answer!<br><br>🤔 Random fact: I'm addicted to coffee.</p>
+<p align="left">👨‍💻 I'm a Developer Jr. always trying to improve my skills and knowledge on the programming World;<br><br>🗺 Currently living in Brazil, Porto Alegre;<br><br>📚 I'm studying Production Engineering and System Development at the moment. (yes, you read that right, I'm doing two graduations at the same time 🤯);<br><br>🔥 Feel free to ask me anything about programming and I will always try my best to answer!<br><br>🤔 Random fact: I'm addicted to coffee.</p>
 
 ###
 
