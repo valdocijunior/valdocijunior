@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valdocijunior&color=yellow" alt="Profile views" /> </p>
 
-###
-
-<p align="left">👨‍💻 I'm a Developer Jr. always trying to improve my skills and knowledge on the programming World;<br><br>🗺 Currently living in Brazil, Porto Alegre;<br><br>📚 I'm studying Production Engineering and System Development at the moment. (yes, you read that right, I'm doing two graduations at the same time 🤯);<br><br>🔥 Feel free to ask me anything about programming and I will always try my best to answer!<br><br>🤔 Random fact: I'm addicted to coffee.</p>
 
 ###
 
@@ -16,12 +13,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
 
 <br><br>
 
