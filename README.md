@@ -1,38 +1,79 @@
-<h1 align="left">Hello there ✌, I'm Valdoci Junior!</h1>
+<h1 align="left">👋 Olá! Sou o Valdoci Moraes Junior</h1>
+<p align="left">Desenvolvedor Full Stack | Entusiasta da Tecnologia</p>
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valdocijunior&color=yellow" alt="Profile views" /> </p>
-
-
-###
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
-
-<br><br>
-
-<h4 align="left">Connect with me:</h4>
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/valdocijunior" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-valdocijunior-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<p align="left">
+• Desenvolvedor FullStack, atualmente trabalhando com .NET e React.<br>
+• Estudante de Bacharelado em Sistemas de Informação, profissional dedicado e sempre em busca de evolução na área da tecnologia.<br>
+• Atualmente desenvolvendo um projeto pessoal: um SaaS.<br>
+• Experiência em criar interfaces escaláveis e responsivas, com foco em acessibilidade e SEO de alto nível.<br>
+• No Backend, atuo na construção de microserviços, seguindo regras de negócio e priorizando a segurança.
 </p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=valdocijunior" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=valdocijunior" height="150" alt="languages graph"  />
+<h2 align="left">🛠️ Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="Dotnet Core" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" />
 </div>
 
 ###
 
-
+<h2 align="left">📊 Estatísticas</h2>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valdocijunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=valdocijunior&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+</div>
+
+###
+
+<h2 align="left">📬 Entre em contato</h2>
+
+###
+
+<p align="left">
+• Fique à vontade para me chamar para trocar ideias sobre tecnologia, projetos ou colaborações!<br>
+📧 valdoci.jr@gmail.com
+</p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/valdocijunior/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+</div>
+
+###
+
+<p align="left">
+✨ Feito com dedicação por <strong>Valdoci Moraes Junior</strong>
+</p>
+
+![GitHub followers](https://img.shields.io/github/followers/valdocijunior?label=Seguidores&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/valdocijunior?affiliations=OWNER%2CCOLLABORATOR&style=social)
